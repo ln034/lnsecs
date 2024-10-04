@@ -1,4 +1,4 @@
-<h1 align='center'>LnPen - Resourses (<a href="https://www.linkedin.com/in/lnsecs/" target="_blank" >LinkedIn</a>)</h1>
+<h1 align='center'>LnPt - Resourses (<a href="https://www.linkedin.com/in/lnsecs/" target="_blank" >LinkedIn</a>)</h1>
 
 ## Roadmaps
 ***&emsp;=>&emsp;*** [disclose.io](https://github.com/disclose)&emsp;|&emsp;
